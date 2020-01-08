@@ -110,6 +110,7 @@ author:
   name             : "Roozbeh Ghazavi"
   avatar           : "/assets/images/6.jpg"
   bio              : Moddb Developer
+  Calendly         : roozbehghazavi
   location         : "Classified"
   email            : roozbehghazavi@gmail.com
   twitter: 
@@ -136,7 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "Calendly"
+      icon: "fab fa-fw fa-Calendly"
+      # url: "https://calendly.com/"
 # Site Footer
 footer:
   links:
