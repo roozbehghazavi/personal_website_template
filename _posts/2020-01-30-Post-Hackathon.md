@@ -16,4 +16,4 @@ An Introduction To My Hackathon Project.
 
 Website Interface Pictures:
 
-![an image alt text]({{roozbehghazavi.github.io}}/assets/images/8.jpg)
+![First Page]({{roozbehghazavi.github.io}}/assets/images/8.png)
