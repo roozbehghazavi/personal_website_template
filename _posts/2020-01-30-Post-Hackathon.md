@@ -16,5 +16,4 @@ An Introduction To My Hackathon Project.
 
 Website Interface Pictures:
 
-
-* [HxD Hex Editor Download Link](https://mh-nexus.de/en/downloads.php?product=HxD20)
+![]

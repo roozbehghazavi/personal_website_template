@@ -6,12 +6,12 @@ title: FinalExam
 
 I have learnt These new Subjects after Final Exam:
 
-1.bin function in python
-2.round function in python
-3.more format specifiers in c
-4.switch case in c
-5.Complete bitwise oprators
-6.Function Pointer (without main function) Using Typedef
-7.Function Pointer in python
-8.something new About Struct
+1.bin function in python<br>
+2.round function in python<br>
+3.more format specifiers in c<br>
+4.switch case in c<br>
+5.Complete bitwise oprators<br>
+6.Function Pointer (without main function) Using Typedef<br>
+7.Function Pointer in python<br>
+8.something new About Struct<br>
 
