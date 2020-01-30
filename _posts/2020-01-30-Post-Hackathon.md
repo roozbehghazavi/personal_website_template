@@ -16,4 +16,4 @@ An Introduction To My Hackathon Project.
 
 Website Interface Pictures:
 
-![First Page]({{roozbehghazavi.github.io}}/assets/images/8.jpg "First page")
+![First Page]({{roozbehghazavi.github.io}}/C:\dev\roozbehghazavi.github.io\assets\images\8.jpg "First page")
